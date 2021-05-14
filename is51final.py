@@ -35,8 +35,8 @@ main()
 """
 grades = []
 
-def main()
-    grade = requestgrade()
+def main():
+    grade = requestGrade()
     fillListWithGrades(grade)
     displayGrades()
 
@@ -46,14 +46,14 @@ def requestGrade():
 
 def fillListWithGrades(grade):
     classGrades
-    infile = open(Final.txt, 'r')
+    infile = open("Final.txt", 'r')
     for classTotal in infile:
         sum.classGrades
     infile.close()
 
 def displayGrades():
     for classTotal in classGrades:
-        print(classtotal)    
+        print(classTotal)    
 
 main()
 
