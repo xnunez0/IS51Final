@@ -8,3 +8,28 @@ it will seperate and display the percentage of grades that are above the average
 
 """
 
+"""
+grades = []
+
+def main()
+    grade = requestgrade()
+    fillListWithGrades(grade)
+    displayGrades()
+
+def requestGrade():
+    grade = input("Would you like me to calculate total, average, and total above average: ")
+    return grades
+
+def fillListWithGrades(grade):
+    classGrades
+    infile = open(Final.txt, 'r')
+    for classTotal in infile:
+        sum.classGrades
+    infile.close()
+
+def displayGrades():
+    for classTotal in classGrades:
+        print(classtotal)    
+
+main()
+"""
